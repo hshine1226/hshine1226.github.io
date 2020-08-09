@@ -55,10 +55,10 @@ about_content: | # this will include new lines to allow paragraphs
   
   신입 웹 프론트 개발자 <mark>최준혁</mark>입니다.
 
-  평소에 **정리정돈**이나 **청소**하는 것을 좋아하고, 코드를 작성함에 있어서도 **심플한 코드**를 추구합니다. 
-  그리고 **구조화된 프로그래밍**하는 것을 목표로 합니다.
+  저는 평소에 **정리정돈**이나 **청소**하는 것을 좋아하고, 코드를 작성함에 있어서도 **심플한 코드**를 추구합니다. 
+  그리고 **구조화된 프로그래밍**을 하는 것을 목표로 합니다.
 
-  또한 지속적으로 발전하고 뒤쳐지지 않는 개발자가 되기 **블로그**와 **개인 Wiki**를 운영하고 있습니다.
+  또한 **기록**하고 **공유**하는 것을 좋아해 **블로그**와 **개인 Wiki**를 운영하고 있습니다.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -72,9 +72,21 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  저는 또한 **트롬본**이라는 악기를 다루는 것을 좋아하고 즐겨합니다. 
+  **예술**과 **개발** 이 둘은 모두 무언가를 **창작**해낸다는 점에서 공통된 매력을 가지고 있다고 생각합니다. 
+  아마도 저는 이러한 매력에 사로잡혀서 개발을 하고자 마음을 먹었는지도 모르겠습니다.
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+  시간 가는줄 모르게 재미있는 **개발**과 **음악**! 앞으로도 이 두가지 특기이자 취미는 계속 저와 함께할 것이고, 이는 저의 가치를 더욱 더 높여줄 것이라고 확신합니다. 
+
+  이런 저에게 관심이 있으시다면 언제든지 메일이나 전화번호를 통해서 연락을 주세요! 감사합니다.
+  
+  <img src="images/trombone-collage.jpg" style="width:100%; margin-top: 40px;"/>
+
+
+  
+
+
+  
 
 # Footer
 footer_show_references: false
