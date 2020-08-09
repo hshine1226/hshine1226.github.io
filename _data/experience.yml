@@ -1,10 +1,19 @@
 # Experience template
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
-   Short description of the company (optional)
+  company: KOSIF
+  link: http://www.kosif.org/
+  job_title: 인턴
+  dates: 2019.01 - 2019.02
+  # quote: >    
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    CDP 보고서 및 질의서 작성 보조
+
+# Experience template
+- layout: left
+  company: 한국기술교육대학교 산학협력단
+  link: https://sandan.koreatech.ac.kr/
+  job_title: TLO 연구원
+  dates: 2019.09 - 2020.02
+  # quote: >    
+  description: | # this will include new lines to allow paragraphs
+    한국기술교육대학교 기술이전사업

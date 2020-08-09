@@ -1,9 +1,38 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-  quote: >
-    Short overview of the project (optional)
+  name: 도어락 및 창문파손 감지장치
+  link: https://github.com/hshine1226/graduation_project
+  github: hshine1226/graduation_project
+  # quote: >
+  #   역할: 하드웨어 
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    학부 졸업작품으로 만든 지역사회기여형 작품으로써 천안시 사회적 약자를 위한 **도어락 및 창문파손**을 감지하는 저비용 센서입니다. 3명의 팀원으로 구성되어 프로젝트를 진행했고, 저는 하드웨어(라즈베리파이)를 담당했습니다.
+
+- layout: top-middle
+  name: Bellamy-tube
+  link: https://bellamy-tube.herokuapp.com/
+  github: hshine1226/youtube-clone
+  # quote: >
+  #   동영상 플랫폼인 Youtube 클론 코딩(풀스택 개발)
+  description: | # this will include new lines to allow paragraphs
+    Full-stack 개발을 목표로 Youtube를 클론 코딩한 Bellamy-tube입니다. 혼자서 개발을 진행했고, VanillaJS, NodeJS, MongoDB를 통해서 Full-Stack 개발을 진행했습니다. 
+
+- layout: top-middle
+  name: Belflix
+  link: https://github.com/hshine1226/belflix
+  github: hshine1226/belflix
+  # quote: >
+  #   영화와 TV Show 정보를 볼 수 있는 React Web
+  description: | # this will include new lines to allow paragraphs
+    React를 이용해서 개발한 첫 번째 웹사이트입니다. 영화정보와 드라마 정보등을 확인할 수 있는 웹입니다.
+
+- layout: top-middle
+  name: 대똥여지도
+  link: https://github.com/hshine1226/gpoopmap
+  github: hshine1226/gpoopmap
+  description: | # this will include new lines to allow paragraphs
+    여자친구가 밖에만 나가면 화장실이 급해서 곤란한 적이 많아서 만든 **화장실 정보 공유 플랫폼**입니다.
+    
+    Front-end와 Back-end 모두 혼자서 개발을 진행했습니다. 약 3달동안 진행한 프로젝트로 지금은 웹으로만 구현되어있지만 추후에 React Native를 통해 앱으로 만들 예정입니다.
+
+    **대똥여지도**를 만들면서 React와 Express server에 대해서 조금 더 심화있게 공부할 수 있는 계기가 되었습니다.
