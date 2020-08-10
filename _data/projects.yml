@@ -4,7 +4,7 @@
   link: https://github.com/hshine1226/graduation_project
   github: hshine1226/graduation_project
   # quote: >
-  #   역할: 하드웨어 
+  #   역할: 하드웨어
   description: | # this will include new lines to allow paragraphs
     학부 졸업작품으로 만든 지역사회기여형 작품으로써 천안시 사회적 약자를 위한 **도어락 및 창문파손**을 감지하는 저비용 센서입니다. 
     3명의 팀원으로 구성되어 프로젝트를 진행했고, **팀장**으로서의 역할과 하드웨어의 전반적인 개발을 수행했습니다.
@@ -19,7 +19,6 @@
     **Full-stack** 개발을 목표로 Youtube를 클론 코딩한 Bellamy-tube입니다. **CRUD의 모든 기능을 구현**하고,
     혼자서 개발을 진행했습니다. Front-end에서는 따로 Framework를 사용하지 않고 **오직 VanillaJS**로 웹을 구현했습니다. 
     처음으로 풀스택을 개발하면서 전반적인 개발 프로세스가 어떻게 흘러가는지 알게된 유익한 프로젝트입니다.
-
 
 - layout: top-middle
   name: Belflix
@@ -36,6 +35,6 @@
   link: https://github.com/hshine1226/gpoopmap
   github: hshine1226/gpoopmap
   description: | # this will include new lines to allow paragraphs
-    여자친구가 밖에만 나가면 화장실을 가고 싶어해서 곤란한 적이 많았는데, 그때 아이디어가 떠올라 만든 **화장실 정보 공유 플랫폼**입니다. 
-    Front-end와 Back-end 모두 혼자서 개발을 진행했습니다. 약 3달동안 진행한 프로젝트로 지금은 웹으로만 구현되어있지만 추후에 몇가지 기능 추가와 React Native를 통해 App으로도 구현할 예정입니다.
-    **대똥여지도**를 만들면서 React와 Express server에 대해서 조금 더 심화있게 공부할 수 있는 계기가 되었습니다.
+    여자친구가 밖에만 나가면 화장실을 가고 싶어해서 곤란한 적이 많았습니다. 대똥여지도가 바로 그것을 해결하기 위한 **화장실 정보 공유 플랫폼**입니다. 
+    약 3달동안 진행한 프로젝트로 모든 개발과정은 단독으로 진행되었습니다. 
+    현재는 웹으로만 구현되어있지만 추후에 React Native를 통해 몇가지 기능을 추가하여 App으로도 구현할 예정입니다.
