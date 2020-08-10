@@ -53,7 +53,7 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   안녕하세요. 
 
-  신입 웹 프론트 개발자 <mark>최준혁</mark>입니다.
+  신입 웹 프론트 개발자 <mark>**최준혁**</mark>입니다.
 
   저는 평소에 **정리정돈**이나 **청소**하는 것을 좋아하고, 코드를 작성함에 있어서도 **심플한 코드**를 추구합니다. 
   이러한 저의 성향을 기반으로 **구조화된 프로그래밍**을 하는 것을 목표로 합니다.
