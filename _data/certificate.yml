@@ -1,0 +1,17 @@
+# Certificate template
+- layout: left
+  company: 정보처리기사
+  dates: 2019.05.22
+  description: | # this will include new lines to allow paragraphs
+
+- layout: left
+  company: OPIC(IH)
+  dates: 2020.03.04 - 2021.10.19
+  # quote: >
+  description: | # this will include new lines to allow paragraphs
+
+- layout: left
+  company: TOEIC(710)
+  dates: 2019.05.12 - 2021.05.12
+  # quote: >
+  description: | # this will include new lines to allow paragraphs
