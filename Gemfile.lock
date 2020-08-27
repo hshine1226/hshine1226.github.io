@@ -267,7 +267,6 @@ PLATFORMS
 
 DEPENDENCIES
   html-proofer (~> 3.9)
-  jekyll-watch
   modern-resume-theme!
 
 BUNDLED WITH
