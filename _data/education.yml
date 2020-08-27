@@ -3,18 +3,8 @@
   name: 대전과학기술대학교
   dates: 2013.02 - 2015.08
   qualification: 컴퓨터공학 & 그래픽(편입 전)
-  # quote: >
-  #   편입전
-  #   Short institution or course description (optional)
-  # description: | # this will include new lines to allow paragraphs
-  #   편입 전
 
-# Education Template
 - layout: left
   name: 한국기술교육대학교
   dates: 2015.02 - 2019.08
   qualification: 컴퓨터공학(편입 후)
-  # quote: >
-  #   Short institution or course description (optional)
-  # description: | # this will include new lines to allow paragraphs
-  #   편입 후
