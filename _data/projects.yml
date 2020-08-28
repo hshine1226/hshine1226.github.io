@@ -18,7 +18,7 @@
     2020.07 ~ 2020.08
   description: | # this will include new lines to allow paragraphs
     영화 정보나 드라마 정보등을 확인할 수 있는 **Single-Page-Application**입니다. 
-    처음으로 React를 사용해 만든 프로젝트라 개념이 잡히는데 어려움이 많았지만, 사용자 경험 증가를 직접 느껴보고 SPA에 푹 빠지게 된 계기가 되었습니다.
+    처음으로 **React**를 사용해 만든 프로젝트라 개념이 잡히는데 어려움이 있었지만, 사용자 경험 증가를 직접 느껴보고 SPA에 푹 빠지게 된 계기가 되었습니다.
 
 - layout: top-middle
   name: Bellamy-tube
@@ -27,9 +27,8 @@
   quote: >
     2020.05 ~ 2020.07
   description: | # this will include new lines to allow paragraphs
-    **Full-stack** 개발을 목표로 Youtube를 클론코딩한 프로젝트입니다. **CRUD의 모든 기능을 구현**하고,
-    Front-end는 Framework 사용 없이 **오직 VanillaJS**로 구현하였습니다. 
-    처음으로 웹 풀스택을 개발하면서 전반적인 개발 프로세스가 어떻게 흘러가는지 알게된 프로젝트입니다.
+    Front-end framework 사용 없이 **오직 VanillaJS**로 Youtube를 클론코딩한 프로젝트입니다. 
+    Back-end 또한 **Node.js**를 통해 구현해서 풀스택 개발을 Javascript로 진행했습니다.
 
 - layout: top-middle
   name: 도어락 및 창문파손 감지장치
@@ -38,5 +37,5 @@
   quote: >
     2018.03 ~ 2018.10
   description: | # this will include new lines to allow paragraphs
-    **학부 졸업작품**으로 만든 지역사회기여형 작품으로써 천안시 사회적 약자를 위한 **도어락 및 창문파손**을 감지하는 저비용 센서를 구축했습니다.
-    3명의 팀원으로 구성되어 프로젝트를 진행했고, **팀장**으로서의 역할과 하드웨어의 전반적인 개발을 수행했습니다.
+    **학부 졸업작품**으로 만든 지역사회기여형 작품으로써 천안시 사회적 약자를 위한 **도어락 및 창문파손을 감지하는 저비용 센서**를 구축했습니다.
+    **3명의 팀원**으로 구성이 되었고, **팀장**으로서의 역할과 하드웨어의 전반적인 개발을 수행했습니다.
