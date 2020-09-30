@@ -47,14 +47,15 @@ ruby -v
 # ruby 2.5.1p57 (2018-03-29 revision 63029) [x86_64-linux]
 ```
 
-vi ~/.zshrc에 아래와 같이 추가
+vi ~/.zshrc에 아래와 같이 추가한다.
+
 ``` shell
 [[ -d ~/.rbenv  ]] && \
   export PATH=${HOME}/.rbenv/bin:${PATH} && \
   eval "$(rbenv init -)" 
 ```
 
-그리고 `source ~/.zshrc`로 추가한 코드 적용
+그리고 `source ~/.zshrc`로 추가한 코드 적용한다.
 
 ``` shell
 gem install bundler
