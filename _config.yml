@@ -10,7 +10,7 @@ phone: 010-6662-1488
 # website: Your website (eg. https://google.com)(optional)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: never
 
 # Social links
 github_username: hshine1226
