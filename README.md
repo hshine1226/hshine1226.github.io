@@ -29,12 +29,13 @@ If you are using Zsh run:
 ```shell
 echo 'export PATH="$HOME/.rbenv/bin:$PATH"' >> ~/.zshrc
 echo 'eval "\$(rbenv init -)"' >> ~/.zshrc
-source ~/.zshrc 4. Install the latest stable version of Ruby and set it as a default version with:
+source ~/.zshrc 
 ```
+4. Install the latest stable version of Ruby and set it as a default version with:
 
 ```shell
-rbenv install 2.5.1
-rbenv global 2.5.1
+rbenv install 2.7.1
+rbenv global 2.7.1
 ```
 
 To list all available Ruby versions you can use: rbenv install -l
@@ -43,8 +44,20 @@ To list all available Ruby versions you can use: rbenv install -l
 
 ```shell
 ruby -v
-
 # ruby 2.5.1p57 (2018-03-29 revision 63029) [x86_64-linux]
+```
+
+vi ~/.zshrc에 아래와 같이 추가
+``` shell
+[[ -d ~/.rbenv  ]] && \
+  export PATH=${HOME}/.rbenv/bin:${PATH} && \
+  eval "$(rbenv init -)" 
+```
+
+그리고 `source ~/.zshrc`로 추가한 코드 적용
+
+``` shell
+gem install bundler
 ```
 
 ## Running locally
